@@ -4,20 +4,20 @@
 * It is a good place to meet other people all around the world.
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
 * (hopeful)It is the most largest knowledge database in this planet :)
-## How it Works?
+## How it works?
 * Mentors - The person who has strong knowledge on specific fields and is willing to sharing his knowledge to others.
 * Mentees - The person who is looking for some specific topics which he or she is interested in.
 * Schedule a date and get started. Mentees schedule a date with mentors, and get started with each other.
-## Why We Need It?
+## Why we need it?
 * No location/area limitation. You can learn everything you are interested in at anywhere with network connected.
 * Higher interaction between mentors and mentees. You can have the answer instantly once you raise a question.
 * Plenty of topics and it is free. A diversity of topics, for examples, languages, science, programming skills, computer sciences, cooking, sports…etc.
 * Meet new friends all around the world.
-## Benefits For Mentors
+## Benefits for Mentors
 * It is a great opportunity to demonstrate professional  skills and capabilities and to gain career in the near future as well.
-## Benefits For Mentees
+## Benefits for Mentees
 * Gain a diversity of knowledge without any charge.
-## Benefits For Dev Team
+## Benefits for Dev Team
 * Experience in developing such a large project never before.
 * Collect the information of behaviors and preferences from the end users for the near future analysis requirement.
 * Earn from advertising revenues.
