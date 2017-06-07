@@ -7,8 +7,7 @@
 ## How it Works?
 * Mentors - The person who has strong knowledge on specific fields and is willing to sharing his knowledge to others.
 * Mentees - The person who is looking for some specific topics which he or she is interested in.
-* Schedule a date and get started.
-* Mentees schedule a date with mentors, and get started with each other.
+* Schedule a date and get started. Mentees schedule a date with mentors, and get started with each other.
 ## Why We Need It?
 * No location/area limitation. You can learn everything you are interested in at anywhere with network connected.
 * Higher interaction between mentors and mentees. You can have the answer instantly once you raise a question.
