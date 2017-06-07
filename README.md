@@ -11,7 +11,7 @@
 ## Why we need it?
 * No location/area limitation. You can learn everything you are interested in at anywhere with network connected.
 * Higher interaction between mentors and mentees. You can have the answer instantly once you raise a question.
-* Plenty of topics and it is free. A diversity of topics, for examples, languages, science, programming skills, computer sciences, cooking, sports…etc.
+* Plenty of topics and it is free and easy to access. A diversity of topics, for examples, languages, science, programming skills, computer sciences, cooking, sports…etc.
 * Meet new friends all around the world.
 ## Benefits for Mentors
 * It is a great opportunity to demonstrate professional  skills and capabilities and to gain career in the near future as well.
