@@ -1,6 +1,7 @@
 # Real Time Face To Face Learning Platform
 ## What is it?
 * It is an easy to use web platform where people can real time face to face share/gain knowledge to/from.
+* It supports live streaming and two way conversation.
 * It is a good place to meet other people all around the world.
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
 * (hopeful)It is the most largest knowledge database in this planet :)
