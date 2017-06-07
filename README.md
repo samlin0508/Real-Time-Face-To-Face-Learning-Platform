@@ -3,7 +3,7 @@
 * It is an easy to use web platform where people can face to face real time share/gain knowledge to/from.
 * It is a good place to meet other people all around the world.
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
-* (hopeful)It is the most largest knowledge database in this planet :).
+* (hopeful)It is the most largest knowledge database in this planet :)
 ## How it Works?
 * Mentors - The person who has strong knowledge on specific fields and is willing to sharing his knowledge to others.
 * Mentees - The person who is looking for some specific topics which he or she is interested in.
@@ -22,7 +22,7 @@
 * Experience in developing such a large project never before.
 * Collect the information of behaviors and preferences from the end users for the near future analysis requirement.
 * Earn from advertising revenues.
-* The most important is that you have your own business instead of doing the work you’re currently :).
+* The most important is that you have your own business instead of doing the work you’re currently :)
 ## Required Technologies
 * Languages: Java
 * Web:HTML5/CSS3/JavaScript/JSP/Bootstrap/Angular JS/Spring MVC /Spring IoC
