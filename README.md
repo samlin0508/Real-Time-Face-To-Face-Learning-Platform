@@ -5,7 +5,7 @@
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
 * (hopeful)It is the most largest knowledge database in this planet :)
 ## How it works?
-* Mentors - The person who has strong knowledge on specific fields and is willing to sharing his knowledge to others.
+* Mentors - The person who has strong knowledge on specific fields and is willing to share his knowledge to others.
 * Mentees - The person who is looking for some specific topics which he or she is interested in.
 * Schedule a date and get started. Mentees schedule a date with mentors, and get started with each other.
 ## Why we need it?
