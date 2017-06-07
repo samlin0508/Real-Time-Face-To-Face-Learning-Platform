@@ -1,13 +1,14 @@
 # Real Time Face To Face Learning Platform
 ## What is it?
-* It is an easy to use web platform where people can face to face real time share/gain knowledge to/from.
+* It is an easy to use web platform where people can real time face to face share/gain knowledge to/from.
 * It is a good place to meet other people all around the world.
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
 * (hopeful)It is the most largest knowledge database in this planet :)
 ## How it works?
+Two kinds of end users, they are mentors and mentees.
 * Mentors - The person who has strong knowledge on specific fields and is willing to share his knowledge to others.
 * Mentees - The person who is looking for some specific topics which he or she is interested in.
-* Schedule a date and get started. Mentees schedule a date with mentors, and get started with each other.
+* Schedule a date and get started - Mentees schedule a date with mentors, and get started with each other.
 ## Why we need it?
 * No location/area limitation. You can learn everything you are interested in at anywhere with network connected.
 * Higher interaction between mentors and mentees. You can have the answer instantly once you raise a question.
