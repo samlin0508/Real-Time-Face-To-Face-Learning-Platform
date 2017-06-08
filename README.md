@@ -1,9 +1,9 @@
-# Real Time Face To Face Learning Platform
+# Real Time Face To Face(Aka Live) Learning Platform
 ## What is it?
-* It is an easy to use web platform where people can real time face to face share/gain knowledge to/from via live streaming and two way conversations.
+* It is an easy to use web platform where people(Mentors and Mentees) can real time face to face to share/gain knowledge to/from via live streaming and two way conversations.
 * It is a good place to meet other people all around the world.
 * It is a great opportunity to demonstrate your professional  skills and capabilities and to gain career in the near future as well.
-* (hopeful)It is the most largest knowledge database in this planet :)
+* (hopeful)It is the most largest knowledge database on this planet :)
 ## How it works?
 Two kinds of end users, they are mentors and mentees.
 * Mentors - The person who has strong knowledge on specific fields and is willing to share his knowledge to others.
@@ -16,11 +16,12 @@ Two kinds of end users, they are mentors and mentees.
 * Meet new friends all around the world.
 ## Benefits for Mentors
 * It is a great opportunity to demonstrate professional  skills and capabilities and to gain career in the near future as well.
+* Possible to earn extra revenue from paid materials.
 ## Benefits for Mentees
 * Gain a diversity of knowledge without any charge.
 ## Benefits for Dev Team
 * Experience in developing such a large project never before.
-* Collect the information of behaviors and preferences from the end users for the near future analysis requirement.
+* Have a great opportunity to collect the information of behaviors and preferences from the end users for the near future analysis requirement.
 * Earn from advertising revenues.
 * The most important is that you have your own business instead of doing the work you’re currently :)
 ## Required Technologies
